@@ -1,6 +1,3 @@
-
-
-
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&color=7569B6&background=C5C5C500&vCenter=true&lines=Ol%C3%A1!!!Eu+sou+Victor+Azevedo.%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
 Sou Engenheiro Mecatrônico em transicao de carreira para Desenvolvedor de Software.
@@ -15,7 +12,7 @@ Sou Engenheiro Mecatrônico em transicao de carreira para Desenvolvedor de Softw
 ![Snake animation](https://github.com/Victor18Azevedo/victor18azevedo/blob/output/github-contribution-grid-snake.svg)
 
 
-### Principais Linguagens em estudo estudando e praticando:
+### Principais Linguagens em estudo e praticando:
 
 <div style='displayÇ in line_block'><br/>
 <img src= "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
