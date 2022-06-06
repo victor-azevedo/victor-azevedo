@@ -12,7 +12,6 @@ Sou Engenheiro Mecatrônico em transição de carreira para Desenvolvedor de Sof
 ![Snake animation](https://github.com/victor18azevedo/victor18azevedo/blob/output/github-contribution-grid-snake.svg)
 
 ### 📚 Principais Linguagens em estudo e praticando:
-
 <div style='displayÇ in line_block'><br/>
 <img src= "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 <img src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -23,7 +22,6 @@ Sou Engenheiro Mecatrônico em transição de carreira para Desenvolvedor de Sof
 
 ### ☎️Contado:
 <div><br/></div>
-
 - [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/victor-azevedo-304769230)
 
 - 📧 victor2_0@yahoo.com.br
