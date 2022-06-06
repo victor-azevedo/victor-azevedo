@@ -5,10 +5,10 @@
 
 Sou Engenheiro Mecatrônico em transicao de carreira para Desenvolvedor de Software.
 
--  Atualmente me dedicando a aprender as linguaugens e ferramentas para programação web Fullstack.
+-  Atualmente me dedicando a aprender as linguagens e ferramentas para programação web Fullstack.
 -  Cursando especialização na área de Inteligencia Artifial, área na qual tive contato na faculdade e sempre despertou meu interesse, na literatura e no cinema.
 
-
+![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=victor18azevedo&show_icons=true&theme=tokyonight)
 
 ![Snake animation](https://github.com/Victor18Azevedo/victor18azevedo/blob/output/github-contribution-grid-snake.svg)
 
