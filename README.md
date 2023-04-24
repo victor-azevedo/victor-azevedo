@@ -48,13 +48,6 @@ Sou Engenheiro Mecatrônico em transição de carreira para Desenvolvedor de Sof
 <img src= "https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
 </div>
 
-<br/>
-<br/>
-<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=victor-azevedo&
-theme=blue-green">
-<br/>
-<br/>
-
 ### :soccer: Lazer:
 
 <div style='display: in line_block'>
