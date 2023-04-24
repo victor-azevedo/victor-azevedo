@@ -5,8 +5,6 @@ Sou Engenheiro Mecatrônico em transição de carreira para Desenvolvedor de Sof
 - 👨‍💻 Atualmente me dedicando a aprender as linguagens e ferramentas para programação web Fullstack.
 - 🧠 Cursando especialização em Inteligencia Artificial, área na qual tive contato na faculdade e sempre despertou meu interesse, seja na literatura ou no cinema.
 
-![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-azevedo&show_icons=true&theme=tokyonight)
-
 ![Snake animation](https://github.com/victor-azevedo/victor-azevedo/blob/output/github-contribution-grid-snake.svg)
 
 ### :scroll: Principais Linguagens em estudo e praticando:
@@ -54,8 +52,15 @@ Sou Engenheiro Mecatrônico em transição de carreira para Desenvolvedor de Sof
 <img src= "https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white">
 <img src= "https://img.shields.io/badge/FIFA-B7312F?style=for-the-badge&logo=fifa&logoColor=white">
 <img src= "https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
-
 </div>
+
+<br/>
+<br/>
+<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=victor-azevedo&theme=blue-green">
+<br/>
+<br/>
+
+![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-azevedo&show_icons=true&theme=tokyonight)
 
 ### ☎️ Contado:
 
