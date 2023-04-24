@@ -54,11 +54,11 @@ Sou Engenheiro Mecatrônico em transição de carreira para Desenvolvedor de Sof
 <img src= "https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
 </div>
 
+<br/>
 ![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-azevedo&show_icons=true&theme=tokyonight)
+<br/>
 
 ### ☎️ Contado:
-
-<div></div>
 
 - [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/victor-azevedo-dev)
 
