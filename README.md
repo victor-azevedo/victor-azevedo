@@ -6,9 +6,6 @@ Sou Engenheiro Mecatrônico em transição de carreira para Desenvolvedor de Sof
 -  🧠 Cursando especialização em Inteligencia Artificial, área na qual tive contato na faculdade e sempre despertou meu interesse, seja na literatura ou no cinema.
 
 
-![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=victor18azevedo&show_icons=true&theme=tokyonight)
-
-
 ![Snake animation](https://github.com/victor18azevedo/victor18azevedo/blob/output/github-contribution-grid-snake.svg)
 
 ### 📚 Principais Linguagens em estudo e praticando:
