@@ -7,6 +7,10 @@ Sou Engenheiro Mecatrônico em transição de carreira para Desenvolvedor de Sof
 
 ![Snake animation](https://github.com/victor-azevedo/victor-azevedo/blob/output/github-contribution-grid-snake.svg)
 
+
+![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-azevedo&show_icons=true&theme=tokyonight)
+
+
 ### :scroll: Principais Linguagens em estudo e praticando:
 
 <div style='display: in line_block'>
@@ -55,7 +59,6 @@ Sou Engenheiro Mecatrônico em transição de carreira para Desenvolvedor de Sof
 </div>
 
 
-![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-azevedo&show_icons=true&theme=tokyonight)
 
 
 ### ☎️ Contado:
