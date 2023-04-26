@@ -8,11 +8,6 @@ Sou Engenheiro Mecatrônico em transição de carreira para Desenvolvedor de Sof
 ![Snake animation](https://github.com/victor-azevedo/victor-azevedo/blob/output/github-contribution-grid-snake.svg)
 
 
-[![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-azevedo&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-azevedo)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ### :scroll: Principais Linguagens em estudo e praticando:
 
 <div style='display: in line_block'>
@@ -62,14 +57,13 @@ Sou Engenheiro Mecatrônico em transição de carreira para Desenvolvedor de Sof
 
 
 
-
 ### ☎️ Contado:
 
 - [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/victor-azevedo-dev)
 
 - 📧 josevcazevedo@gmail.com
 
-<!--
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-azevedo&layout=compact)](https://github.com/victor-azevedo/github-readme-stats)
 
--->
+
