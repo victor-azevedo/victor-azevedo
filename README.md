@@ -1,9 +1,11 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&color=7569B6&background=C5C5C500&vCenter=true&lines=Ol%C3%A1!!!+Sou+Victor+Azevedo.%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
-Sou Engenheiro Mecatrônico em transição de carreira para Desenvolvedor de Software. ⚙️ ➡️ 👨‍💻
+Olá, pode me chamar de Victor, paulistano de nascimento, mas cearense de criação e coração. Como gosto muito de ficção científica, ser fascinado por tecnologia é uma adorável consequência 💻.
 
-- 👨‍💻 Atualmente me dedicando a aprender as linguagens e ferramentas para programação web Fullstack.
-- 🧠 Cursando especialização em Inteligencia Artificial, área na qual tive contato na faculdade e sempre despertou meu interesse, seja na literatura ou no cinema.
+Sou Desenvolvedor Fullstack, sim, gosto tanto de Back-end como de Front-end, não necessariamente na mesma proporção, mas pode-se dizer que é praticamente um empate técnico. Cada um tem seu charme e seus desafios.
+
+Como hobby gosto muito de esportes em geral, principalmente futebol ⚽ e automobilismo 🏎️. Ficção científica também me atrai muito, me empolgo com os contos de Isaac Asimov 🤖 e filmes com viagens no tempo ⌛. Além de um bom jogo de video-game com muita ação e um bom enredo. Cozinhar é prazeroso e terapêutico 🍝. 
+
 
 ![Snake animation](https://github.com/victor-azevedo/victor-azevedo/blob/output/github-contribution-grid-snake.svg)
 
