@@ -7,7 +7,7 @@ Sou Engenheiro Mecatrônico em transição de carreira para Desenvolvedor de Sof
 
 ![Snake animation](https://github.com/victor-azevedo/victor-azevedo/blob/output/github-contribution-grid-snake.svg)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-azevedo&show_icons=true&theme=tokyonight)](https://github.com/victor-azevedo/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-azevedo)](https://github.com/victor-azevedo/github-readme-stats)
 
 
 ### :scroll: Principais Linguagens em estudo e praticando:
